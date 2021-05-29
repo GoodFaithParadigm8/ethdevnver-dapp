@@ -1,6 +1,10 @@
-## Getting started
+# LIVE ON RINKEBY
 
-### Local Development
+**App Hosted on Rinkeby**
+
+### Getting started
+
+#### Local Development
 
 #### Install tools and start Ganache
 
