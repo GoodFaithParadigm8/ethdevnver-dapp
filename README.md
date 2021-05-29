@@ -1,8 +1,8 @@
 # LIVE ON RINKEBY
 
-**App Hosted on Rinkeby**
+**App Hosted on Vercel**
 
-### Getting started
+_Getting started_
 
 #### Local Development
 
